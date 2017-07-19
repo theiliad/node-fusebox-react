@@ -1,7 +1,14 @@
-# Fusebox and react
+# Fusebox & React
 
+![Fusebox + React](preview.gif)
 
-```
+# How to run:
+```sh
 npm install
-node fuse.js
+npm run dev
+```
+
+And in a separate terminal tab run:
+```sh
+npm start
 ```
